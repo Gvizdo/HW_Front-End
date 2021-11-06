@@ -1,0 +1,24 @@
+body {
+  background-color: lightskyblue;
+}
+
+.text2 {
+  text-align: left;
+  color: white;
+  background-color: blue;
+}
+
+#text3 {
+  text-align: right;
+  color: black;
+  background-color: yellow;
+  box-shadow: -20px 20px 20px 0px yellow;
+}
+
+#shadow {
+  box-shadow: 20px -20px 20px 0px blue;
+}
+
+p {
+  text-align: center;
+}
