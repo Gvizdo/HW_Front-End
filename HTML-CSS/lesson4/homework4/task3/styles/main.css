@@ -1,0 +1,115 @@
+@import url(fonts.css);
+@import url(reset.css);
+
+.header{
+    height: 55px;
+    background-color: rgb(216, 209, 209);
+    text-align: center;
+}
+
+.text1{
+    line-height: 55px;
+    color: red;
+    font-family: 'RobotoCondensed';
+    font-size: 35px;
+}
+
+.container{
+    height: 600px;
+    width: 100%;
+    padding: 50px 90px;
+    background-color: white;
+}
+
+.photos-text{
+    height: 500px;
+    background-color: hotpink;
+}
+
+.big-image{
+    padding: 3px;
+    border: 1px solid rgb(185, 183, 183);
+}
+.box-phototext{
+    height: 500px;
+    background-color: white;
+    float: left;
+}
+
+.images{
+    width: 50%;
+    background-color: white;
+}
+
+.marvel{
+    width: 100%;
+}
+
+.small-images{
+    width: 100%;
+    background-color: goldenrod;
+}
+
+.marvel1 {
+    width: 22.47%;
+    float: left;
+    margin: 48px 10px 48px 0;
+    padding: 3px;
+    border: 1px solid rgb(185, 183, 183);
+}
+.marvel2 {
+    width: 22.47%;
+    float: left;
+    margin: 48px 10px; 
+    padding: 3px;
+    border: 1px solid rgb(185, 183, 183);
+}
+
+.marvel3 {
+    width: 22.47%;
+    float: left;
+    margin: 48px 10px; 
+    padding: 3px;
+    border: 1px solid rgb(185, 183, 183);
+}
+
+.marvel4 {
+    width: 22.47%;
+    float: left;
+    margin: 48px 0 48px 10px; 
+    padding: 3px;
+    border: 1px solid rgb(185, 183, 183);
+}
+
+.text-box{
+    padding: 0 20px 0 100px;
+    width: 50%;
+    background-color:white;
+}
+
+.text-Marvel{
+    border-top: 2px solid red;
+    background-color: yellow;
+}
+
+.main-text{
+    margin-top: 10px;
+    border-top: 3px solid red;
+    background-color: white;
+}
+
+.about-marvel{
+    font-family: 'Lato', sans-serif;
+    font-size: 35px;
+}
+
+.text2{
+    padding-top: 10px;
+    font-family: 'RobotoSlab', serif;
+    font-size: 13px;
+    color: black;
+    text-align: justify;
+    line-height: 18px;
+    letter-spacing: 1.5px;
+    word-spacing: 3px;
+}
