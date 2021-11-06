@@ -1,10 +1,17 @@
 @import url(fonts.css);
+
 @import url(reset.css);
 
 .header{
     height: 55px;
     background-color: rgb(216, 209, 209);
     text-align: center;
+    transition: 0.8s;
+}
+
+.header:hover {
+    background-color: gold;
+    cursor: pointer;
 }
 
 .text1{
@@ -12,6 +19,12 @@
     color: red;
     font-family: 'RobotoCondensed';
     font-size: 35px;
+    transition: 1s;
+}
+
+.text1:hover {
+    font-size: 50px;
+    font-weight: 1000;
 }
 
 .container{
@@ -48,6 +61,14 @@
 .small-images{
     width: 100%;
     background-color: goldenrod;
+}
+
+.small-pict {
+    transition: 0.8s;
+}
+
+.small-pict:hover {
+    opacity: 0.5;
 }
 
 .marvel1 {
