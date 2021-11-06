@@ -1,0 +1,31 @@
+.box1 {
+  background-color: aqua;
+  height: 100px;
+  width: 200px;
+  margin: 4px auto;
+  outline: 1px dashed red;
+}
+
+.box2 {
+  background-color: yellow;
+  height: 100px;
+  width: 200px;
+  margin: 10px auto;
+  outline: 1px dotted red;
+}
+
+.box3 {
+  background-color: aqua;
+  height: 100px;
+  width: 200px;
+  margin: 25px auto;
+  outline: 15px solid blue;
+}
+
+.box4 {
+  background-color: aqua;
+  height: 100px;
+  width: 203px;
+  margin: 10px auto;
+  border-left: 6px solid black;
+}

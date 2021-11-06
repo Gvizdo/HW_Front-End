@@ -1,0 +1,374 @@
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 7px auto;
+  height: 632px;
+  width: 669px;
+  background-color: white;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+}
+
+.box-top {
+  height: 134px;
+  padding: 34px 0;
+  background-color: rgb(240, 222, 196);
+}
+
+.box-top1 {
+  width: 80%;
+  height: 66px;
+  margin: 0 auto;
+  padding: 16px 0;
+  background-color: rgb(208 163 106 / 96%);
+}
+
+.box-top2 {
+  margin: 0 auto;
+  width: 40%;
+  height: 34px;
+  padding: 5px 0;
+  background-color: rgb(248, 247, 237);
+}
+
+p {
+  text-align: center;
+}
+
+.box-centre1 {
+  height: 100px;
+}
+
+.menu {
+  width: 20%;
+  height: 100px;
+  float: left;
+}
+
+.c1 {
+  background-color: rgb(91 171 171);
+}
+
+.c2 {
+  background-color: rgb(70 151 204);
+}
+
+.c3 {
+  background-color: rgb(241, 207, 162);
+}
+
+.c4 {
+  background-color: rgb(192, 109, 127);
+}
+
+.c5 {
+  background-color: indigo;
+}
+
+.box-centre1::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.box-centre2 {
+  height: 300px;
+}
+
+.boxc {
+  width: 33.33%;
+  height: 300px;
+  float: left;
+}
+
+.first {
+  padding: 10px 0;
+  background-color: green;
+}
+
+.box-f-top {
+  height: 67px;
+  width: 60%;
+  margin: 0px auto;
+  padding: 25px;
+  background-color: #fff;
+}
+
+.box-f-cent {
+  height: 68px;
+  width: 50%;
+  margin: 21px auto;
+  background-color: brown;
+}
+
+.box-f-bott {
+  height: 134px;
+  width: 50%;
+  margin: -21px auto;
+  background-color: #fff;
+}
+
+.box-f-bottin {
+  height: 134px;
+  width: 50%;
+  float: left;
+}
+
+.boks4 {
+  background-color: indianred;
+}
+
+.boks5 {
+  background-color: khaki;
+}
+
+.box-f-bott::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.box-centre2::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.blockA {
+  height: 34px;
+  background-color: rgb(9, 93, 89);
+}
+
+.BCD {
+  height: 266px;
+}
+
+.BCD-all {
+  width: 33.3%;
+  float: left;
+  height: 266px;
+}
+
+.B-block {
+  background-color: rgb(91, 226, 192);
+}
+
+.C-block {
+  background-color: lightblue;
+}
+
+.D-block {
+  background-color: lightseagreen;
+}
+
+.BCD::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.B1-B2 {
+  padding-top: 46.91px;
+  height: 200.5px;
+}
+
+.B1B2 {
+  height: 200.5px;
+  width: 50%;
+  float: left;
+}
+
+.B1 {
+  height: 200.5px;
+  background-color: red;
+}
+
+.B2 {
+  height: 100.5px;
+  margin-top: 100px;
+  background-color: yellowgreen;
+}
+
+.C1 {
+  height: 66px;
+  background-color: lightskyblue;
+}
+
+.C2 {
+  height: 66px;
+  background-color: rgb(39, 47, 167);
+}
+
+.C3 {
+  height: 66px;
+  background-color: rgb(93, 20, 128);
+}
+
+.C4-C5 {
+  height: 66px;
+}
+
+.C4C5 {
+  height: 66px;
+  background-color: #fff;
+  float: left;
+}
+
+.C4 {
+  width: 50%;
+  height: 68px;
+  background-color: rgb(245, 232, 219);
+}
+
+.C5 {
+  width: 50%;
+  height: 68px;
+  background-color: rgb(238, 152, 137);
+}
+
+.C4C5::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.D {
+  height: 66px;
+  background-color: rgb(87, 241, 246);
+}
+
+.D1 {
+  height: 66px;
+  background-color: rgb(9, 86, 93);
+}
+
+.D3 {
+  height: 134px;
+  background-color: rgb(235, 230, 170);
+}
+
+img {
+  width: 40px;
+  margin: 12px 17px;
+}
+
+.thirty {
+  background-color: rgb(194, 195, 195);
+}
+
+.thirty-1 {
+  height: 34px;
+}
+
+.thitry-123 {
+  height: 34px;
+  width: 33.33%;
+  float: left;
+}
+
+.one {
+  background-color: lightgreen;
+}
+
+.two {
+  background-color: mediumorchid;
+}
+
+.three {
+  background-color: orangered;
+}
+
+.thitry-123::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.thirty-2 {
+  height: 50px;
+  padding: 13px 0;
+  background-color: papayawhip;
+}
+
+.thirty-2-red {
+  width: 40%;
+  height: 23px;
+  margin: 0 auto;
+  padding: 17px 0 0;
+  background-color: red;
+}
+
+.thirty-2-blackinred {
+  height: 6px;
+  width: 20%;
+  margin: 0 auto;
+  background-color: black;
+}
+
+.thirty-3 {
+  height: 166px;
+  background-color: rgb(194, 195, 195);
+}
+
+.VII-all {
+  margin-top: 31.6px;
+  height: 166px;
+  float: left;
+}
+
+.VII {
+  width: 33%;
+  background-color: darkslategray;
+}
+
+.all {
+  width: 67%;
+  background-color: grey;
+}
+
+.VII-all::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.all-9-10 {
+  margin-top: 34.6px;
+  height: 53px;
+  background: #000;
+}
+
+.IX-X {
+  height: 53px;
+  width: 50%;
+  float: left;
+}
+
+.IX {
+  background-color: rgb(154, 35, 233);
+}
+
+.X {
+  background-color: khaki;
+}
+
+.IX-X::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.all-11 {
+  height: 60px;
+  background-color: rgb(234, 149, 241);
+}
+
+.box-bottom {
+  height: 96px;
+  background-color: rgba(45, 46, 46, 0.966);
+}
